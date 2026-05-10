@@ -1,1 +1,2 @@
 # Bone-Fractures
+Built a custom Convolutional Neural Network (CNN) to automatically detect bone fractures from X-ray images, trained on a dataset of 8,863 images across two classes (Fractured / Not Fractured). Applied advanced data augmentation techniques including rotation, zoom, and flipping to improve model generalization. Evaluated using full classification metrics — achieving an AUC of 0.99, demonstrating near-perfect discrimination between fractured and healthy bones. Built using Python, TensorFlow, Keras, and scikit-learn.
